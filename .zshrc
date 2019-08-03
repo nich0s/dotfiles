@@ -62,12 +62,9 @@ HIST_STAMPS="dd.mm.yyyy"
 # Add wisely, as too many plugins slow down shell startup.
 plugins=(
   aws
-  bower
   compleat
   docker
   git
-  jira
-  osx
   tmux
 )
 
